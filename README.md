@@ -5,4 +5,4 @@
 - Асинхронное выполнение задач реализовано с помощью библиотеки asyncio.
 - Для скачивания содержимого репозитория использовалась библиотека aiohttp.
 - После выполнения всех асинхронных задач скрипт подсчитывает sha256 хэши от каждого файла.
-- Код проходит без замечаний проверку линтером wemake-python-styleguide, за исключением двух замечаний (конфигурация nitpick - https://gitea.radium.group/radium/project-configuration).
+- Код проходит без замечаний проверку линтером wemake-python-styleguide (конфигурация nitpick - https://gitea.radium.group/radium/project-configuration).
